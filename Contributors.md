@@ -13615,3 +13615,4 @@ CMBloodMeridian
 - [bekahh] (https://github.com/bekahh)
 - [Jeffrey Hui] (https://github.com/jeffrey-hui)
 - [Levon Ar] (https://github.com/LevonAr)
+- [L Rakesh Singh] (https://github.com/rakezt)
